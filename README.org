@@ -1,4 +1,7 @@
-Ejemplo de uso de repositorio en
-https://mybinder.org/v2/gh/jaalonso/notebooks/master
+Ejemplo de uso de repositorio en 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaalonso/notebooks/master)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/jaalonso/notebooks/master
 
 Basado en [[https://tesel.mx/jupyter-notebooks-online-6086/][Compartir Jupyter Notebooks online]].
